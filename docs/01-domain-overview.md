@@ -8,7 +8,8 @@ Regulated banks must **know their customers** (KYC) and **monitor for suspicious
 
 | Framework | Relevance |
 |-----------|-----------|
-| **EU AMLD6** | CDD, beneficial ownership, PEP screening |
+| **EU AMLD4 / AMLD5** | CDD, beneficial ownership, PEP screening (Regulation (EU) 2024/1624 applies from July 2027) |
+| **EU AMLD6** | Harmonized money laundering offences and penalties |
 | **FATF 40 Recommendations** | Risk-based approach, STR/SAR filing |
 | **GDPR** | Lawful basis for identity data processing |
 | **eIDAS** | Qualified electronic signatures where applicable |

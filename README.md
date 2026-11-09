@@ -16,6 +16,9 @@ Demonstrates how a Business Analyst bridges Compliance, Operations, and Engineer
 | [User Stories & Acceptance Criteria](docs/04-user-stories-and-acceptance-criteria.md) | Backlog for onboarding and SAR workflow |
 | [Stakeholder Analysis](docs/05-stakeholder-analysis.md) | RACI across Compliance and Operations |
 | [Glossary](docs/06-glossary.md) | AML/KYC terminology |
+| [To-Be Process Design](docs/07-to-be-process-design.md) | Review findings, risk model, onboarding and SAR flows, EDD checklist |
+| [Worked Scenarios](docs/08-worked-scenarios.md) | Fuzzy matches, PEPs, rescreen freeze, structuring, capacity |
+| [Data and Test Plan](docs/09-data-and-test-plan.md) | KYC record, role access, SAR content, threshold governance, UAT |
 | [Requirements Traceability Matrix](artifacts/requirements-traceability-matrix.md) | End-to-end traceability |
 
 ## Skills Demonstrated
@@ -25,6 +28,8 @@ Demonstrates how a Business Analyst bridges Compliance, Operations, and Engineer
 - Risk-based approach documentation
 - Integration requirements (identity verification, watchlist providers)
 - Audit-ready requirements with retention and evidence rules
+- Requirements quality review, with findings closed through change requests
+- Worked numeric scenarios, edge case registers, and boundary-level UAT plans
 
 ## Disclaimer
 
