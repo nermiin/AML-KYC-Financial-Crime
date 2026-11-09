@@ -70,6 +70,17 @@
 - Dashboard shows days remaining per jurisdiction rule.
 - Email alert at T-48h and T-24h before deadline.
 
+---
+
+### US-KYC-04 — Onboarding status in CRM
+
+**As a** customer service agent  
+**I want** onboarding status updates in the CRM  
+**So that** I can answer customers without opening compliance tools
+
+- Status values only: IN_PROGRESS, ACTIVE, NOT_APPROVED.
+- Screening results, alerts and SAR data are never sent.
+
 ## Definition of Done
 
 - Compliance sign-off on screening thresholds
